@@ -50,3 +50,9 @@ body{
 .special-margin{
     margin-bottom: 70px;
 }
+
+/* footer styles */
+footer{
+    height: 280px;
+    background-color: #0B0D17;
+}
