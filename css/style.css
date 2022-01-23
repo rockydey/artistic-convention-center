@@ -5,6 +5,9 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.common-margin{
+    margin-bottom: 100px;
+}
 
 /* navigation menu styles */
 .nav-logo{
@@ -14,3 +17,36 @@ body{
 }
 
 /* carousel styles */
+
+/* package styles */
+.package-main-head{
+    color: #0A0826;
+    margin-bottom: 75px;
+}
+.package-div{
+    background: #3F87F5;
+    margin-bottom: 26px;
+    margin-top: -26px;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+.package-radius{
+    border-radius: 25px;
+}
+.package-head{
+    color: #231D4F;
+}
+.package-para{
+    color: #848199;
+}
+.package-btn{
+    background-color: #f496d21e;
+    color: #3F87F5;
+}
+.best-choice{
+    background-color: #FF4E4E;
+    right: 12px;
+    top: -23px;
+}
+.special-margin{
+    margin-bottom: 70px;
+}
