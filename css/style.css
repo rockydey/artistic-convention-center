@@ -18,6 +18,7 @@ body{
 
 /* carousel styles */
 
+
 /* package styles */
 .package-main-head{
     color: #0A0826;
@@ -28,8 +29,6 @@ body{
     margin-bottom: 26px;
     margin-top: -26px;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
-}
-.package-radius{
     border-radius: 25px;
 }
 .package-head{
@@ -47,12 +46,27 @@ body{
     right: 12px;
     top: -23px;
 }
-.special-margin{
-    margin-bottom: 70px;
+
+/* Contact Form Styles */
+.contact-form{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgb(99, 99, 99);
+    border-radius: 7px;
 }
 
 /* footer styles */
 footer{
     height: 280px;
     background-color: #0B0D17;
+}
+
+@media only screen and (max-width: 575px) {
+    .carousel-head{
+        font-size: 20px !important;
+    }
+    .carousel-para{
+        font-size: 14px !important;
+    }
 }
