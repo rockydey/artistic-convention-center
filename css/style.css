@@ -44,7 +44,7 @@ body{
     line-height: 33px;
 }
 .package-para{
-    color: #848199;
+    color: #636172;
     font-size: 15px;
     line-height: 22px;
 }
@@ -76,19 +76,19 @@ body{
 
 /* FAQs styles */
 .accordion-head{
-    color:#383838;
+    color:#383838 !important;
 }
 .accordion-head:focus{
-    color:#383838;
-    border: none;
+    color:#383838 !important;
+    border: none !important;
 }
 .accordion-head:active{
-    color:#383838;
-    border: none;
+    color:#383838 !important;
+    border: none !important;
 }
 .accordion-head:visited{
-    color:#383838;
-    border: none;
+    color:#383838 !important;
+    border: none !important;
 }
 .accordion-para{
     color: #7E848C;
