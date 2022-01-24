@@ -15,6 +15,9 @@ body{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+.zone-color{
+    color: #0A0826;
+}
 
 /* carousel styles */
 
@@ -45,6 +48,22 @@ body{
     background-color: #FF4E4E;
     right: 12px;
     top: -23px;
+}
+
+/* Happy Clients styles */
+.clients-para{
+    letter-spacing: 0.2px;  
+    color: #6C6C6C;
+}
+.clients-head-1{
+    color: #0C1920;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+}
+.clients-head-2{
+    color: #747474;
+    font-size: 15px;
+    letter-spacing: 0.2px;
 }
 
 /* Contact Form Styles */
